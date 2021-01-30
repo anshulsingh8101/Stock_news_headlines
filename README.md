@@ -7,7 +7,8 @@ Accuracy Score
 </p>
 
 
-
+<br>
+</br>
 
 
 True Positive and false negative values using pyplot
