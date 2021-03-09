@@ -7,7 +7,7 @@ RESULTS
 Accuracy Score
 
 <p align="center">
-  <img src="https://github.com/anshulsingh8101/Stock_news_headlines/blob/master/images/newplot%20(1).png" width="500" title="hover text">
+  <img src="https://github.com/anshulsingh8101/Stock_news_headlines/blob/master/images/newplot%20(1).png" width="650" title="hover text">
 </p>
 
 
@@ -18,6 +18,6 @@ Accuracy Score
 True Positive and false negative values using pyplot
 
 <p align="center">
-  <img src="https://github.com/anshulsingh8101/Stock_news_headlines/blob/master/images/newplot.png" width="500" title="hover text">
+  <img src="https://github.com/anshulsingh8101/Stock_news_headlines/blob/master/images/newplot.png" width="650" title="hover text">
 </p>
 
