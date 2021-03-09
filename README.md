@@ -1,6 +1,6 @@
 # Stock_news_headlines
 
-First Model -------------------------------------------- Random Forest without any Hyperparameter tuning
+First Model --------------------------------------------> Random Forest without any Hyperparameter tuning
 
 <p align="center">
   <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/rf_no_hpt.png" width="800" title="hover text">
@@ -11,7 +11,7 @@ First Model -------------------------------------------- Random Forest without a
 </br>
 
 
-Second Model -------------------------------------------- Random Forest with Hyperparameter tuning
+Second Model --------------------------------------------> Random Forest with Hyperparameter tuning
 
 <p align="center">
   <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/random_forest_hpt.png" width="800" title="hover text">
@@ -22,7 +22,7 @@ Second Model -------------------------------------------- Random Forest with Hyp
 </br>
 
 
-Third Model -------------------------------------------- Xg_boost_model Without any hypertuning
+Third Model --------------------------------------------> Xg_boost_model Without any hypertuning
 
 <p align="center">
   <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/Xgboost_no_hpt.png" width="800" title="hover text">
@@ -36,7 +36,7 @@ Third Model -------------------------------------------- Xg_boost_model Without 
 
 
 
-Fourth Model -------------------------------------------- Xg_boost_model with hypertuning
+Fourth Model --------------------------------------------> Xg_boost_model with hypertuning
 
 <p align="center">
   <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/xgboost_1.png" width="750" title="hover text">
@@ -49,7 +49,7 @@ Fourth Model -------------------------------------------- Xg_boost_model with hy
 
 
 
-Fifth Model -------------------------------------------- CATBOOST
+Fifth Model --------------------------------------------> CATBOOST
 
 <p align="center">
   <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/catboost.png" width="800" title="hover text">
@@ -60,7 +60,7 @@ Fifth Model -------------------------------------------- CATBOOST
 </br>
 
 
--------------------------------------------- Code for making the below plotly visualization
+Code for making the below plotly visualization ------------------------------------------------------------------------------/
 
 <p align="center">
   <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/conclusion.png" width="750" title="hover text">
@@ -72,8 +72,7 @@ Fifth Model -------------------------------------------- CATBOOST
 
 
 
-
--------------------------------------------- Accuracy Score
+Accuracy Score -------------------------------------------------------------------------------------------------------------/
 
 <p align="center">
   <img src="https://github.com/anshulsingh8101/Stock_news_headlines/blob/master/images/newplot%20(1).png" width="650" title="hover text">
