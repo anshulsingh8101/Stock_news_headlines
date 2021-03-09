@@ -3,7 +3,7 @@
 First Model --------------------------------------------> Random Forest without any Hyperparameter tuning
 
 <p align="center">
-  <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/rf_no_hpt.png" width="800" title="hover text">
+  <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/rf_no_hpt.png" width="900" title="hover text">
 </p>
 
 
@@ -14,7 +14,7 @@ First Model --------------------------------------------> Random Forest without 
 Second Model --------------------------------------------> Random Forest with Hyperparameter tuning
 
 <p align="center">
-  <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/random_forest_hpt.png" width="800" title="hover text">
+  <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/random_forest_hpt.png" width="900" title="hover text">
 </p>
 
 
@@ -25,7 +25,7 @@ Second Model --------------------------------------------> Random Forest with Hy
 Third Model --------------------------------------------> Xg_boost_model Without any hypertuning
 
 <p align="center">
-  <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/Xgboost_no_hpt.png" width="800" title="hover text">
+  <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/Xgboost_no_hpt.png" width="900" title="hover text">
 </p>
 
 
@@ -39,8 +39,8 @@ Third Model --------------------------------------------> Xg_boost_model Without
 Fourth Model --------------------------------------------> Xg_boost_model with hypertuning
 
 <p align="center">
-  <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/xgboost_1.png" width="750" title="hover text">
-  <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/xg_boost_2.png" width="750" title="hover text">
+  <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/xgboost_1.png" width="900" title="hover text">
+  <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/xg_boost_2.png" width="900" title="hover text">
 </p>
 
 
@@ -52,7 +52,7 @@ Fourth Model --------------------------------------------> Xg_boost_model with h
 Fifth Model --------------------------------------------> CATBOOST
 
 <p align="center">
-  <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/catboost.png" width="800" title="hover text">
+  <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/catboost.png" width="900" title="hover text">
 </p>
 
 
@@ -63,7 +63,7 @@ Fifth Model --------------------------------------------> CATBOOST
 Code for making the below plotly visualization ------------------------------------------------------------------------------/
 
 <p align="center">
-  <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/conclusion.png" width="750" title="hover text">
+  <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/conclusion.png" width="900" title="hover text">
 </p>
 
 
@@ -75,7 +75,7 @@ Code for making the below plotly visualization ---------------------------------
 Accuracy Score -------------------------------------------------------------------------------------------------------------/
 
 <p align="center">
-  <img src="https://github.com/anshulsingh8101/Stock_news_headlines/blob/master/images/newplot%20(1).png" width="650" title="hover text">
+  <img src="https://github.com/anshulsingh8101/Stock_news_headlines/blob/master/images/newplot%20(1).png" width="900" title="hover text">
 </p>
 
 
@@ -83,10 +83,9 @@ Accuracy Score -----------------------------------------------------------------
 </br>
 
 
-
---------------------------------------------   True Positive and false negative values using plotly visualization
+True Positive and false negative values using plotly visualization ---------------------------------------------------------/
 
 <p align="center">
-  <img src="https://github.com/anshulsingh8101/Stock_news_headlines/blob/master/images/newplot.png" width="650" title="hover text">
+  <img src="https://github.com/anshulsingh8101/Stock_news_headlines/blob/master/images/newplot.png" width="900" title="hover text">
 </p>
 
